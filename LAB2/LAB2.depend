@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1773826414 source:c:\users\bmscecse-l4\desktop\1bf24cs209_ada_lab\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
