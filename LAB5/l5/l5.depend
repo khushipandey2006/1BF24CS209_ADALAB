@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1776225354 source:c:\users\bmscecse-l4\desktop\1bf24cs209_ada_lab\l5\main.c
+	<stdio.h>
+	<stdlib.h>
+
